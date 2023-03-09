@@ -11,3 +11,4 @@ In this repo you may find the xilinx USB downloader  based on FT232/FT2232/FT423
   - Firmware programming
   
 # FT232/FT2232/FT4232 difference
+ 
