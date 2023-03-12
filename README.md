@@ -21,5 +21,5 @@ In this repo you may find the xilinx USB downloader  based on FT232/FT2232/FT423
       - FT4232: program_ftdi -write -ftdi FT4232H -serial 11053463 -vendor "SZ_TECH" -board "K7_FMC" -desc "XILINX”
       
 # about SCH & PCB
-  The design is based on cadence 17.4 version and provides Gerber files
-  This hardware design supports FT2232 and FT4232, only one serial port can be used
+  - The design is based on cadence 17.4 version and provides Gerber files
+  - This hardware design supports FT2232 and FT4232, only one serial port can be used
